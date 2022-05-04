@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MCMSettings>
+  <BandageTime>0</BandageTime>
+  <BandageEnabled>false</BandageEnabled>
+  <BandageKey>Q</BandageKey>
+  <BandageHealAmount>1</BandageHealAmount>
+  <BandageAmount>1</BandageAmount>
+  <HealingAmount>0</HealingAmount>
+  <HealingLimit>false</HealingLimit>
+  <PlayerRegenDamageDelay>1</PlayerRegenDamageDelay>
+  <PlayerHealthRegenInterval>1</PlayerHealthRegenInterval>
+  <PlayerHealthRegenAmount>0</PlayerHealthRegenAmount>
+  <HealthRegenEnabled>false</HealthRegenEnabled>
+  <HealthOnHitEnabled>false</HealthOnHitEnabled>
+  <PlayerMinHealthOnHit>0</PlayerMinHealthOnHit>
+  <PlayerMaxHealthOnHit>1000</PlayerMaxHealthOnHit>
+  <PlayerPercentHealthOnHit>0</PlayerPercentHealthOnHit>
+  <FleeingChance>0.5</FleeingChance>
+  <PerventFleeing>false</PerventFleeing>
+  <CutThroughPlayerOnly>false</CutThroughPlayerOnly>
+  <CutThroughActive>false</CutThroughActive>
+  <MutliHitOneHanded>false</MutliHitOneHanded>
+  <MutliHitTwoHanded>false</MutliHitTwoHanded>
+  <PreventKnockdown>false</PreventKnockdown>
+  <ShrugOffBlow>false</ShrugOffBlow>
+  <CampaignHealthRegenMultiplier>1</CampaignHealthRegenMultiplier>
+  <TroopHealthAthletics>0</TroopHealthAthletics>
+  <TroopPercentHealthPerLevel>false</TroopPercentHealthPerLevel>
+  <TroopPercent>0</TroopPercent>
+  <TroopFlatAmount>0</TroopFlatAmount>
+  <TroopFlatHealthPerLevel>false</TroopFlatHealthPerLevel>
+  <HeroPercentHealthPerLevel>false</HeroPercentHealthPerLevel>
+  <HeroPercent>0</HeroPercent>
+  <HeroFlatAmount>0</HeroFlatAmount>
+  <HeroFlatHealthPerLevel>false</HeroFlatHealthPerLevel>
+  <PlayerPercentHealthPerLevel>false</PlayerPercentHealthPerLevel>
+  <PlayerPercent>0</PlayerPercent>
+  <PlayerFlatAmount>0</PlayerFlatAmount>
+  <PlayerFlatHealthPerLevel>false</PlayerFlatHealthPerLevel>
+</MCMSettings>

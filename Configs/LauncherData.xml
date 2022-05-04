@@ -53,7 +53,7 @@
       </UserModData>
       <UserModData>
         <Id>BetterCombat</Id>
-        <IsSelected>false</IsSelected>
+        <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>Cheats</Id>
@@ -61,7 +61,7 @@
       </UserModData>
       <UserModData>
         <Id>EncyclopediaExtender</Id>
-        <IsSelected>false</IsSelected>
+        <IsSelected>true</IsSelected>
       </UserModData>
       <UserModData>
         <Id>EquipBestItem</Id>
