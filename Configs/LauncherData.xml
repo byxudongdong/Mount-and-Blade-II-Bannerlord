@@ -1,0 +1,269 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UserData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <GameType>Singleplayer</GameType>
+  <SingleplayerData>
+    <ModDatas>
+      <UserModData>
+        <Id>Bannerlord.Harmony</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>Bannerlord.ButterLib</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>Bannerlord.UIExtenderEx</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>Bannerlord.MBOptionScreen</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>Native</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>SandBoxCore</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>Sandbox</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>CustomBattle</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>StoryMode</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>AdonnaysTroopChanger</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>AEW - Adonnays Exotic Weaponry</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>ArmsDealer</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>BetterCombat</Id>
+        <IsSelected>false</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>Cheats</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>EncyclopediaExtender</Id>
+        <IsSelected>false</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>EquipBestItem</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>FemaleBodyTextures</Id>
+        <IsSelected>false</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>FemaleTroopsReborn</Id>
+        <IsSelected>false</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>MCAmazonBody</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>MCAmazonArmor</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>MCAmazonTroops</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>Mix and match weapon pack</Id>
+        <IsSelected>false</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>PartyScreenEnhancements</Id>
+        <IsSelected>false</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>PowerfulHeroes</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>SliceThrough</Id>
+        <IsSelected>true</IsSelected>
+      </UserModData>
+      <UserModData>
+        <Id>SueMoreSpouses</Id>
+        <IsSelected>false</IsSelected>
+      </UserModData>
+    </ModDatas>
+  </SingleplayerData>
+  <MultiplayerData>
+    <ModDatas />
+  </MultiplayerData>
+  <DLLCheckData>
+    <DLLData>
+      <DLLCheckData>
+        <DLLName>AdonnaysTroopChanger.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
+      <DLLCheckData>
+        <DLLName>AEW.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
+      <DLLCheckData>
+        <DLLName>ArmsDealer.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
+      <DLLCheckData>
+        <DLLName>Bannerlord.ButterLib.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
+      <DLLCheckData>
+        <DLLName>Bannerlord.Harmony.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
+      <DLLCheckData>
+        <DLLName>MCMv4.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
+      <DLLCheckData>
+        <DLLName>MCMv4.UI.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
+      <DLLCheckData>
+        <DLLName>MCMv4.Adapter.MBO.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
+      <DLLCheckData>
+        <DLLName>ModLib.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
+      <DLLCheckData>
+        <DLLName>ModLib.Definitions.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
+      <DLLCheckData>
+        <DLLName>MCMv4.Adapter.ModLib.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
+      <DLLCheckData>
+        <DLLName>MCMv4.Adapter.MCMv3.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
+      <DLLCheckData>
+        <DLLName>Bannerlord.UIExtenderEx.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
+      <DLLCheckData>
+        <DLLName>BetterCombat.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
+      <DLLCheckData>
+        <DLLName>BannerlordCheats.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
+      <DLLCheckData>
+        <DLLName>EncyclopediaExtender.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
+      <DLLCheckData>
+        <DLLName>EquipBestItem.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
+      <DLLCheckData>
+        <DLLName>MixAndMatchWeaponPack.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
+      <DLLCheckData>
+        <DLLName>PartyScreenEnhancements.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
+      <DLLCheckData>
+        <DLLName>PowerfulHeroes.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
+      <DLLCheckData>
+        <DLLName>SliceThrough.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
+      <DLLCheckData>
+        <DLLName>SueMoreSpouses.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
+      <DLLCheckData>
+        <DLLName>SueLordFromFamily.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
+      <DLLCheckData>
+        <DLLName>SueTheGeneration.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
+      <DLLCheckData>
+        <DLLName>SueMBService.dll</DLLName>
+        <DLLVerifyInformation />
+        <LatestSizeInBytes>0</LatestSizeInBytes>
+        <IsDangerous>true</IsDangerous>
+      </DLLCheckData>
+    </DLLData>
+  </DLLCheckData>
+</UserData>

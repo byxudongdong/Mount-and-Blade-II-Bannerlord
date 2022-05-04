@@ -1,0 +1,233 @@
+[09:35:52.902] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Loading implementations...
+[09:35:52.947] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found implementation Bannerlord.ButterLib.Implementation.1.4.3.dll.
+[09:35:53.001] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found implementation Bannerlord.ButterLib.Implementation.1.5.0.dll.
+[09:35:53.002] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found implementation Bannerlord.ButterLib.Implementation.1.5.1.dll.
+[09:35:53.003] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found implementation Bannerlord.ButterLib.Implementation.1.5.10.dll.
+[09:35:53.010] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found implementation Bannerlord.ButterLib.Implementation.1.5.2.dll.
+[09:35:53.011] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found implementation Bannerlord.ButterLib.Implementation.1.5.3.dll.
+[09:35:53.012] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found implementation Bannerlord.ButterLib.Implementation.1.5.4.dll.
+[09:35:53.012] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found implementation Bannerlord.ButterLib.Implementation.1.5.5.dll.
+[09:35:53.013] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found implementation Bannerlord.ButterLib.Implementation.1.5.6.dll.
+[09:35:53.013] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found implementation Bannerlord.ButterLib.Implementation.1.5.7.dll.
+[09:35:53.014] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found implementation Bannerlord.ButterLib.Implementation.1.5.8.dll.
+[09:35:53.014] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found implementation Bannerlord.ButterLib.Implementation.1.5.9.dll.
+[09:35:53.015] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found implementation Bannerlord.ButterLib.Implementation.1.6.0.dll.
+[09:35:53.016] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found implementation Bannerlord.ButterLib.Implementation.1.6.1.dll.
+[09:35:53.016] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found implementation Bannerlord.ButterLib.Implementation.1.6.2.dll.
+[09:35:53.017] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found implementation Bannerlord.ButterLib.Implementation.1.6.3.dll.
+[09:35:53.017] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found implementation Bannerlord.ButterLib.Implementation.1.6.4.dll.
+[09:35:53.018] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found implementation Bannerlord.ButterLib.Implementation.1.6.5.dll.
+[09:35:53.018] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found implementation Bannerlord.ButterLib.Implementation.1.7.0.dll.
+[09:35:53.019] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found implementation Bannerlord.ButterLib.Implementation.1.7.1.dll.
+[09:35:53.022] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found matching implementation. Loading it.
+[09:35:53.024] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Implementation Bannerlord.ButterLib.Implementation.1.7.1.dll for game e1.7.1.0 is loaded.
+[09:35:53.036] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Finished loading implementations.
+[09:35:53.040] [Bannerlord.ButterLib.Implementation.SubModule] [INF]: Wrapping DebugManager of type TaleWorlds.MountAndBlade.MBDebugManager with DebugManagerWrapper.
+[09:35:53.589] [TaleWorlds.MountAndBlade.MBDebugManager] [INF]: opening ..\..\Modules\Native/ModuleData/banner_icons.xml
+[09:35:53.593] [TaleWorlds.MountAndBlade.MBDebugManager] [INF]: loading banner_icons.xml:
+[09:35:53.646] [TaleWorlds.MountAndBlade.MBDebugManager] [INF]: Resolving: TaleWorlds.PSAI.XmlSerializers, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+[09:35:53.648] [TaleWorlds.MountAndBlade.MBDebugManager] [INF]: Resolving: TaleWorlds.PSAI.XmlSerializers
+[09:35:53.779] [TaleWorlds.MountAndBlade.MBDebugManager] [INF]: Loading GauntletUI Extra Custom Widgets
+[09:35:53.885] [TaleWorlds.MountAndBlade.MBDebugManager] [INF]: Loading GauntletUI Bannerlord Custom Widgets
+[09:35:53.929] [TaleWorlds.MountAndBlade.MBDebugManager] [INF]: Loading FiraSansExtraCondensed-Light font, at: G:\SteamLibrary\steamapps\common\Mount & Blade II Bannerlord\GUI\GauntletUI\Fonts\FiraSansExtraCondensed-Light/FiraSansExtraCondensed-Light.fnt
+[09:35:54.130] [TaleWorlds.MountAndBlade.MBDebugManager] [INF]: Loading FiraSansExtraCondensed-Medium font, at: G:\SteamLibrary\steamapps\common\Mount & Blade II Bannerlord\GUI\GauntletUI\Fonts\FiraSansExtraCondensed-Medium/FiraSansExtraCondensed-Medium.fnt
+[09:35:54.147] [TaleWorlds.MountAndBlade.MBDebugManager] [INF]: Loading FiraSansExtraCondensed-Regular font, at: G:\SteamLibrary\steamapps\common\Mount & Blade II Bannerlord\GUI\GauntletUI\Fonts\FiraSansExtraCondensed-Regular/FiraSansExtraCondensed-Regular.fnt
+[09:35:54.150] [TaleWorlds.MountAndBlade.MBDebugManager] [INF]: Loading FreeSerif-Dingbat font, at: G:\SteamLibrary\steamapps\common\Mount & Blade II Bannerlord\GUI\GauntletUI\Fonts\FreeSerif-Dingbat/FreeSerif-Dingbat.fnt
+[09:35:54.158] [TaleWorlds.MountAndBlade.MBDebugManager] [INF]: Loading Galahad font, at: G:\SteamLibrary\steamapps\common\Mount & Blade II Bannerlord\GUI\GauntletUI\Fonts\Galahad/Galahad.fnt
+[09:35:54.161] [TaleWorlds.MountAndBlade.MBDebugManager] [INF]: Loading Galahad_Numbers_Bold font, at: G:\SteamLibrary\steamapps\common\Mount & Blade II Bannerlord\GUI\GauntletUI\Fonts\Galahad_Numbers_Bold/Galahad_Numbers_Bold.fnt
+[09:35:54.161] [TaleWorlds.MountAndBlade.MBDebugManager] [INF]: Loading simkai font, at: G:\SteamLibrary\steamapps\common\Mount & Blade II Bannerlord\GUI\GauntletUI\Fonts\simkai/simkai.fnt
+[09:37:10.228] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Loading implementations...
+[09:37:10.274] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found implementation Bannerlord.ButterLib.Implementation.1.4.3.dll.
+[09:37:10.331] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found implementation Bannerlord.ButterLib.Implementation.1.5.0.dll.
+[09:37:10.331] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found implementation Bannerlord.ButterLib.Implementation.1.5.1.dll.
+[09:37:10.332] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found implementation Bannerlord.ButterLib.Implementation.1.5.10.dll.
+[09:37:10.332] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found implementation Bannerlord.ButterLib.Implementation.1.5.2.dll.
+[09:37:10.333] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found implementation Bannerlord.ButterLib.Implementation.1.5.3.dll.
+[09:37:10.333] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found implementation Bannerlord.ButterLib.Implementation.1.5.4.dll.
+[09:37:10.333] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found implementation Bannerlord.ButterLib.Implementation.1.5.5.dll.
+[09:37:10.334] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found implementation Bannerlord.ButterLib.Implementation.1.5.6.dll.
+[09:37:10.334] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found implementation Bannerlord.ButterLib.Implementation.1.5.7.dll.
+[09:37:10.335] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found implementation Bannerlord.ButterLib.Implementation.1.5.8.dll.
+[09:37:10.335] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found implementation Bannerlord.ButterLib.Implementation.1.5.9.dll.
+[09:37:10.335] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found implementation Bannerlord.ButterLib.Implementation.1.6.0.dll.
+[09:37:10.336] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found implementation Bannerlord.ButterLib.Implementation.1.6.1.dll.
+[09:37:10.336] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found implementation Bannerlord.ButterLib.Implementation.1.6.2.dll.
+[09:37:10.337] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found implementation Bannerlord.ButterLib.Implementation.1.6.3.dll.
+[09:37:10.337] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found implementation Bannerlord.ButterLib.Implementation.1.6.4.dll.
+[09:37:10.341] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found implementation Bannerlord.ButterLib.Implementation.1.6.5.dll.
+[09:37:10.342] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found implementation Bannerlord.ButterLib.Implementation.1.7.0.dll.
+[09:37:10.342] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found implementation Bannerlord.ButterLib.Implementation.1.7.1.dll.
+[09:37:10.345] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Found matching implementation. Loading it.
+[09:37:10.347] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Implementation Bannerlord.ButterLib.Implementation.1.7.1.dll for game e1.7.1.0 is loaded.
+[09:37:10.360] [Bannerlord.ButterLib.ImplementationLoaderSubModule] [INF]: Finished loading implementations.
+[09:37:10.365] [Bannerlord.ButterLib.Implementation.SubModule] [INF]: Wrapping DebugManager of type TaleWorlds.MountAndBlade.MBDebugManager with DebugManagerWrapper.
+[09:37:10.962] [TaleWorlds.MountAndBlade.MBDebugManager] [INF]: opening ..\..\Modules\Native/ModuleData/banner_icons.xml
+[09:37:10.968] [TaleWorlds.MountAndBlade.MBDebugManager] [INF]: loading banner_icons.xml:
+[09:37:11.018] [TaleWorlds.MountAndBlade.MBDebugManager] [INF]: Resolving: TaleWorlds.PSAI.XmlSerializers, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+[09:37:11.020] [TaleWorlds.MountAndBlade.MBDebugManager] [INF]: Resolving: TaleWorlds.PSAI.XmlSerializers
+[09:37:11.153] [TaleWorlds.MountAndBlade.MBDebugManager] [INF]: Loading GauntletUI Extra Custom Widgets
+[09:37:11.245] [TaleWorlds.MountAndBlade.MBDebugManager] [INF]: Loading GauntletUI Bannerlord Custom Widgets
+[09:37:11.284] [TaleWorlds.MountAndBlade.MBDebugManager] [INF]: Loading FiraSansExtraCondensed-Light font, at: G:\SteamLibrary\steamapps\common\Mount & Blade II Bannerlord\GUI\GauntletUI\Fonts\FiraSansExtraCondensed-Light/FiraSansExtraCondensed-Light.fnt
+[09:37:11.287] [TaleWorlds.MountAndBlade.MBDebugManager] [INF]: Loading FiraSansExtraCondensed-Medium font, at: G:\SteamLibrary\steamapps\common\Mount & Blade II Bannerlord\GUI\GauntletUI\Fonts\FiraSansExtraCondensed-Medium/FiraSansExtraCondensed-Medium.fnt
+[09:37:11.298] [TaleWorlds.MountAndBlade.MBDebugManager] [INF]: Loading FiraSansExtraCondensed-Regular font, at: G:\SteamLibrary\steamapps\common\Mount & Blade II Bannerlord\GUI\GauntletUI\Fonts\FiraSansExtraCondensed-Regular/FiraSansExtraCondensed-Regular.fnt
+[09:37:11.301] [TaleWorlds.MountAndBlade.MBDebugManager] [INF]: Loading FreeSerif-Dingbat font, at: G:\SteamLibrary\steamapps\common\Mount & Blade II Bannerlord\GUI\GauntletUI\Fonts\FreeSerif-Dingbat/FreeSerif-Dingbat.fnt
+[09:37:11.307] [TaleWorlds.MountAndBlade.MBDebugManager] [INF]: Loading Galahad font, at: G:\SteamLibrary\steamapps\common\Mount & Blade II Bannerlord\GUI\GauntletUI\Fonts\Galahad/Galahad.fnt
+[09:37:11.309] [TaleWorlds.MountAndBlade.MBDebugManager] [INF]: Loading Galahad_Numbers_Bold font, at: G:\SteamLibrary\steamapps\common\Mount & Blade II Bannerlord\GUI\GauntletUI\Fonts\Galahad_Numbers_Bold/Galahad_Numbers_Bold.fnt
+[09:37:11.310] [TaleWorlds.MountAndBlade.MBDebugManager] [INF]: Loading simkai font, at: G:\SteamLibrary\steamapps\common\Mount & Blade II Bannerlord\GUI\GauntletUI\Fonts\simkai/simkai.fnt
+[09:37:11.495] [TaleWorlds.MountAndBlade.MBDebugManager] [INF]: Loading SourceHanSansJP font, at: G:\SteamLibrary\steamapps\common\Mount & Blade II Bannerlord\GUI\GauntletUI\Fonts\SourceHanSansJP/SourceHanSansJP.fnt
+[09:37:11.516] [TaleWorlds.MountAndBlade.MBDebugManager] [INF]: Loading UnDotumKR font, at: G:\SteamLibrary\steamapps\common\Mount & Blade II Bannerlord\GUI\GauntletUI\Fonts\UnDotumKR/UnDotumKR.fnt
+[09:37:11.676] [TaleWorlds.MountAndBlade.MBDebugManager] [INF]: MusicParameters have been resetted.
+[09:37:11.947] [TaleWorlds.MountAndBlade.MBDebugManager] [INF]: Resolving: ArmsDealer.XmlSerializers, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+[09:37:11.948] [TaleWorlds.MountAndBlade.MBDebugManager] [INF]: Resolving: ArmsDealer.XmlSerializers
+[09:37:13.349] [TaleWorlds.MountAndBlade.MBDebugManager] [INF]: opening ..\..\Modules\Native/ModuleData/action_types.xml
+[09:37:13.349] [TaleWorlds.MountAndBlade.MBDebugManager] [INF]: opening ..\..\Modules\Native/ModuleData/skins.xml
+[09:37:13.404] [TaleWorlds.MountAndBlade.MBDebugManager] [INF]: opening ..\..\Modules\Native/ModuleData/action_sets.xml
+[09:37:15.001] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: TaleWorlds.MountAndBlade.Launcher.exe Error: 0 : AccessTools2.Field: Could not find field for type 'MCM.IntegratedLoaderSubModule' and name '_loader'
+[09:37:15.012] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: TaleWorlds.MountAndBlade.Launcher.exe Information: 0 : MCM.UI - Register: MCMv4.UI, Version=4.3.18.0, Culture=neutral, PublicKeyToken=null
+[09:37:15.012] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: TaleWorlds.MountAndBlade.Launcher.exe Information: 0 : MCM.UI - Register Types
+[09:37:15.012] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: TaleWorlds.MountAndBlade.Launcher.exe Information: 0 : MCM.UI - Enabled
+[09:37:15.012] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: TaleWorlds.MountAndBlade.Launcher.exe Error: 0 : AccessTools2.Field: Could not find field for type 'TaleWorlds.GauntletUI.PrefabSystem.WidgetFactory' and name '_customTypes'
+[09:37:15.012] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: TaleWorlds.MountAndBlade.Launcher.exe Information: 0 : MCM.UI - Register: MCMv4.UI, Version=4.3.18.0, Culture=neutral, PublicKeyToken=null
+[09:37:15.012] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: TaleWorlds.MountAndBlade.Launcher.exe Information: 0 : MCM.UI - Register Types
+[09:37:15.012] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: TaleWorlds.MountAndBlade.Launcher.exe Error: 0 : Failed to load extension module MCM.UI - already loaded!
+[09:37:15.012] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: TaleWorlds.MountAndBlade.Launcher.exe Information: 0 : MCM.UI - Enabled
+[09:37:15.224] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: TaleWorlds.MountAndBlade.Launcher.exe Error: 0 : 
+[09:37:15.224] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: AccessTools2.Property: Could not find property for type 'System.Boolean' and name 'SelectedIndex'
+[09:37:15.238] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: TaleWorlds.MountAndBlade.Launcher.exe Error: 0 : 
+[09:37:15.238] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: AccessTools2.Property: Could not find property for type 'Newtonsoft.Json.Linq.JObject' and name 'SelectedIndex'
+[09:37:15.244] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: TaleWorlds.MountAndBlade.Launcher.exe Error: 0 : 
+[09:37:15.245] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: AccessTools2.Property: Could not find property for type 'System.Boolean' and name 'SelectedIndex'
+[09:37:15.249] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: TaleWorlds.MountAndBlade.Launcher.exe Error: 0 : 
+[09:37:15.249] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: AccessTools2.Property: Could not find property for type 'System.Boolean' and name 'SelectedIndex'
+[09:37:15.249] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: TaleWorlds.MountAndBlade.Launcher.exe Error: 0 : 
+[09:37:15.249] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: AccessTools2.Property: Could not find property for type 'Newtonsoft.Json.Linq.JObject' and name 'SelectedIndex'
+[09:37:15.249] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: TaleWorlds.MountAndBlade.Launcher.exe Error: 0 : 
+[09:37:15.249] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: AccessTools2.Property: Could not find property for type 'System.Boolean' and name 'SelectedIndex'
+[09:37:15.252] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: TaleWorlds.MountAndBlade.Launcher.exe Error: 0 : 
+[09:37:15.252] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: AccessTools2.Property: Could not find property for type 'System.Boolean' and name 'SelectedIndex'
+[09:37:15.253] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: TaleWorlds.MountAndBlade.Launcher.exe Error: 0 : 
+[09:37:15.253] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: AccessTools2.Property: Could not find property for type 'System.Single' and name 'SelectedIndex'
+[09:37:15.253] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: TaleWorlds.MountAndBlade.Launcher.exe Error: 0 : 
+[09:37:15.254] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: AccessTools2.Property: Could not find property for type 'System.Boolean' and name 'SelectedIndex'
+[09:37:15.254] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: TaleWorlds.MountAndBlade.Launcher.exe Error: 0 : 
+[09:37:15.254] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: AccessTools2.Property: Could not find property for type 'System.Single' and name 'SelectedIndex'
+[09:37:15.254] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: TaleWorlds.MountAndBlade.Launcher.exe Error: 0 : 
+[09:37:15.254] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: AccessTools2.Property: Could not find property for type 'System.Boolean' and name 'SelectedIndex'
+[09:37:15.254] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: TaleWorlds.MountAndBlade.Launcher.exe Error: 0 : 
+[09:37:15.254] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: AccessTools2.Property: Could not find property for type 'System.Single' and name 'SelectedIndex'
+[09:37:15.254] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: TaleWorlds.MountAndBlade.Launcher.exe Error: 0 : 
+[09:37:15.254] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: AccessTools2.Property: Could not find property for type 'System.Single' and name 'SelectedIndex'
+[09:37:15.254] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: TaleWorlds.MountAndBlade.Launcher.exe Error: 0 : 
+[09:37:15.254] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: AccessTools2.Property: Could not find property for type 'Newtonsoft.Json.Linq.JObject' and name 'SelectedIndex'
+[09:37:15.254] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: TaleWorlds.MountAndBlade.Launcher.exe Error: 0 : 
+[09:37:15.254] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: AccessTools2.Property: Could not find property for type 'System.Boolean' and name 'SelectedIndex'
+[09:37:15.254] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: TaleWorlds.MountAndBlade.Launcher.exe Error: 0 : 
+[09:37:15.254] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: AccessTools2.Property: Could not find property for type 'System.Single' and name 'SelectedIndex'
+[09:37:15.255] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: TaleWorlds.MountAndBlade.Launcher.exe Error: 0 : 
+[09:37:15.255] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: AccessTools2.Property: Could not find property for type 'System.Boolean' and name 'SelectedIndex'
+[09:37:15.255] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: TaleWorlds.MountAndBlade.Launcher.exe Error: 0 : 
+[09:37:15.255] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: AccessTools2.Property: Could not find property for type 'System.Single' and name 'SelectedIndex'
+[09:37:15.255] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: TaleWorlds.MountAndBlade.Launcher.exe Error: 0 : 
+[09:37:15.255] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: AccessTools2.Property: Could not find property for type 'System.Boolean' and name 'SelectedIndex'
+[09:37:15.255] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: TaleWorlds.MountAndBlade.Launcher.exe Error: 0 : 
+[09:37:15.255] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: AccessTools2.Property: Could not find property for type 'System.Single' and name 'SelectedIndex'
+[09:37:15.255] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: TaleWorlds.MountAndBlade.Launcher.exe Error: 0 : 
+[09:37:15.256] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: AccessTools2.Property: Could not find property for type 'System.Single' and name 'SelectedIndex'
+[09:37:15.257] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: TaleWorlds.MountAndBlade.Launcher.exe Error: 0 : 
+[09:37:15.257] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: AccessTools2.Property: Could not find property for type 'System.Int32' and name 'SelectedIndex'
+[09:37:15.257] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: TaleWorlds.MountAndBlade.Launcher.exe Error: 0 : 
+[09:37:15.257] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: AccessTools2.Property: Could not find property for type 'Newtonsoft.Json.Linq.JObject' and name 'SelectedIndex'
+[09:37:15.257] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: TaleWorlds.MountAndBlade.Launcher.exe Error: 0 : 
+[09:37:15.257] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: AccessTools2.Property: Could not find property for type 'System.Int32' and name 'SelectedIndex'
+[09:37:15.420] [MCM.Implementation.Settings.Providers.DefaultSettingsProvider] [INF]: Found Global container MCM.Implementation.Settings.Containers.Global.FluentGlobalSettingsContainer.
+[09:37:15.420] [MCM.Implementation.Settings.Providers.DefaultSettingsProvider] [INF]: Found Global container MCM.Implementation.Settings.Containers.Global.MCMGlobalSettingsContainer.
+[09:37:15.420] [MCM.Implementation.Settings.Providers.DefaultSettingsProvider] [INF]: Found Global container MCM.UI.ButterLib.ButterLibSettingsContainer.
+[09:37:15.420] [MCM.Implementation.Settings.Providers.DefaultSettingsProvider] [INF]: Found Global container MCM.Adapter.MBO.Settings.Containers.MBOv1GlobalSettingsContainer.
+[09:37:15.421] [MCM.Implementation.Settings.Providers.DefaultSettingsProvider] [INF]: Found Global container MCM.Adapter.MBO.Settings.Containers.MBOv2GlobalSettingsContainer.
+[09:37:15.421] [MCM.Implementation.Settings.Providers.DefaultSettingsProvider] [INF]: Found Global container MCM.Adapter.ModLib.Settings.Containers.v1.ModLibSettingsContainer.
+[09:37:15.421] [MCM.Implementation.Settings.Providers.DefaultSettingsProvider] [INF]: Found Global container MCM.Adapter.ModLib.Settings.Containers.v13.ModLibDefinitionsSettingsContainer.
+[09:37:15.421] [MCM.Implementation.Settings.Providers.DefaultSettingsProvider] [INF]: Found Global container MCM.Adapter.MCMv3.Settings.Containers.MCMv3FluentGlobalSettingsContainer.
+[09:37:15.421] [MCM.Implementation.Settings.Providers.DefaultSettingsProvider] [INF]: Found Global container MCM.Adapter.MCMv3.Settings.Containers.MCMv3GlobalSettingsContainer.
+[09:37:15.421] [MCM.Implementation.Settings.Providers.DefaultSettingsProvider] [INF]: Found PerSave container MCM.Implementation.Settings.Containers.PerSave.FluentPerSaveSettingsContainer.
+[09:37:15.421] [MCM.Implementation.Settings.Providers.DefaultSettingsProvider] [INF]: Found PerSave container MCM.Implementation.Settings.Containers.PerSave.MCMPerSaveSettingsContainer.
+[09:37:15.603] [TaleWorlds.MountAndBlade.MBDebugManager] [INF]: AddGlobalLayer
+[09:37:15.612] [TaleWorlds.MountAndBlade.MBDebugManager] [INF]: AddGlobalLayer
+[09:37:15.636] [TaleWorlds.MountAndBlade.MBDebugManager] [INF]: AddGlobalLayer
+[09:37:15.670] [TaleWorlds.MountAndBlade.MBDebugManager] [INF]: AddGlobalLayer
+[09:37:15.675] [TaleWorlds.MountAndBlade.MBDebugManager] [INF]: AddGlobalLayer
+[09:37:15.682] [TaleWorlds.MountAndBlade.MBDebugManager] [INF]: AddGlobalLayer
+[09:37:15.971] [TaleWorlds.MountAndBlade.MBDebugManager] [INF]: Force VSync State is now DEACTIVATED
+[09:37:15.971] [TaleWorlds.MountAndBlade.MBDebugManager] [INF]: CleanAndPushScreen
+[09:37:15.972] [TaleWorlds.MountAndBlade.MBDebugManager] [INF]: DeactivateAndFinalizeAllScreens
+[09:37:15.972] [TaleWorlds.MountAndBlade.MBDebugManager] [INF]: OnScreenListChanged
+[09:37:16.064] [TaleWorlds.MountAndBlade.MBDebugManager] [INF]: OnScreenListChanged
+[09:37:16.064] [TaleWorlds.MountAndBlade.MBDebugManager] [INF]: TaleWorlds.MountAndBlade.GauntletUI.VideoPlaybackGauntletScreen::HandleInitialize
+[09:37:16.067] [TaleWorlds.MountAndBlade.MBDebugManager] [INF]: TaleWorlds.MountAndBlade.GauntletUI.VideoPlaybackGauntletScreen::HandleActivate
+[09:37:16.068] [TaleWorlds.MountAndBlade.MBDebugManager] [INF]: TaleWorlds.MountAndBlade.GauntletUI.VideoPlaybackGauntletScreen::HandleResume
+[09:37:32.189] [TaleWorlds.MountAndBlade.MBDebugManager] [INF]: Force VSync State is now DEACTIVATED
+[09:37:32.189] [TaleWorlds.MountAndBlade.MBDebugManager] [INF]: CleanAndPushScreen
+[09:37:32.189] [TaleWorlds.MountAndBlade.MBDebugManager] [INF]: DeactivateAndFinalizeAllScreens
+[09:37:32.189] [TaleWorlds.MountAndBlade.MBDebugManager] [INF]: TaleWorlds.MountAndBlade.GauntletUI.VideoPlaybackGauntletScreen::HandlePause
+[09:37:32.190] [TaleWorlds.MountAndBlade.MBDebugManager] [INF]: TaleWorlds.MountAndBlade.GauntletUI.VideoPlaybackGauntletScreen::HandleDeactivate
+[09:37:32.190] [TaleWorlds.MountAndBlade.MBDebugManager] [INF]: TaleWorlds.MountAndBlade.GauntletUI.VideoPlaybackGauntletScreen::HandleFinalize
+[09:37:32.196] [TaleWorlds.MountAndBlade.MBDebugManager] [INF]: OnScreenListChanged
+[09:37:32.234] [TaleWorlds.MountAndBlade.MBDebugManager] [INF]: OnScreenListChanged
+[09:37:32.234] [TaleWorlds.MountAndBlade.MBDebugManager] [INF]: TaleWorlds.MountAndBlade.GauntletUI.InitialGauntletScreen::HandleInitialize
+[09:37:32.237] [TaleWorlds.MountAndBlade.MBDebugManager] [INF]: MusicManager Initialize completed.
+[09:37:32.264] [TaleWorlds.MountAndBlade.MBDebugManager] [INF]: TaleWorlds.MountAndBlade.GauntletUI.InitialGauntletScreen::HandleActivate
+[09:37:32.306] [TaleWorlds.MountAndBlade.MBDebugManager] [INF]: TaleWorlds.MountAndBlade.GauntletUI.InitialGauntletScreen::HandleResume
+[09:37:44.939] [TaleWorlds.MountAndBlade.MBDebugManager] [INF]: PushScreen
+[09:37:44.939] [TaleWorlds.MountAndBlade.MBDebugManager] [INF]: TaleWorlds.MountAndBlade.GauntletUI.InitialGauntletScreen::HandlePause
+[09:37:44.940] [TaleWorlds.MountAndBlade.MBDebugManager] [INF]: TaleWorlds.MountAndBlade.GauntletUI.InitialGauntletScreen::HandleDeactivate
+[09:37:44.943] [TaleWorlds.MountAndBlade.MBDebugManager] [INF]: OnScreenListChanged
+[09:37:44.943] [TaleWorlds.MountAndBlade.MBDebugManager] [INF]: TaleWorlds.MountAndBlade.GauntletUI.OptionsGauntletScreen::HandleInitialize
+[09:37:45.074] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: TaleWorlds.MountAndBlade.Launcher.exe Error: 0 : 
+[09:37:45.074] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: AccessTools2.Property: Could not find property for type 'TaleWorlds.MountAndBlade.ViewModelCollection.GameOptions.OptionsVM' and name 'GraphicsOptions'
+[09:37:45.303] [TaleWorlds.MountAndBlade.MBDebugManager] [INF]: Force VSync State is now ACTIVE
+[09:37:45.314] [TaleWorlds.MountAndBlade.MBDebugManager] [INF]: TaleWorlds.MountAndBlade.GauntletUI.OptionsGauntletScreen::HandleActivate
+[09:37:45.314] [TaleWorlds.MountAndBlade.MBDebugManager] [INF]: TaleWorlds.MountAndBlade.GauntletUI.OptionsGauntletScreen::HandleResume
+[09:37:45.365] [MCM.Implementation.Settings.Providers.DefaultSettingsProvider] [WRN]: GetSettings BannerlordCheats_v2 returned null
+[09:37:45.401] [TaleWorlds.MountAndBlade.MBDebugManager] [ERR]: Assert Failed!: A character is used that is not in any font! : � (65533); CallerFilePath: C:\Develop\mb3\Source\Engine\TaleWorlds.TwoDimension\BitmapFont\RichText.cs; CallerMemberName: FillPartsWithTokens; CallerLineNumber: 827
+[09:37:45.403] [TaleWorlds.MountAndBlade.MBDebugManager] [ERR]: Assert Failed!: A character is used that is not in any font! : � (65533); CallerFilePath: C:\Develop\mb3\Source\Engine\TaleWorlds.TwoDimension\BitmapFont\RichText.cs; CallerMemberName: FillPartsWithTokens; CallerLineNumber: 827
+[09:37:45.403] [TaleWorlds.MountAndBlade.MBDebugManager] [ERR]: Assert Failed!: A character is used that is not in any font! : � (65533); CallerFilePath: C:\Develop\mb3\Source\Engine\TaleWorlds.TwoDimension\BitmapFont\RichText.cs; CallerMemberName: FillPartsWithTokens; CallerLineNumber: 827
+[09:37:45.414] [TaleWorlds.MountAndBlade.MBDebugManager] [ERR]: Assert Failed!: A character is used that is not in any font! : � (65533); CallerFilePath: C:\Develop\mb3\Source\Engine\TaleWorlds.TwoDimension\BitmapFont\RichText.cs; CallerMemberName: FillPartsWithTokens; CallerLineNumber: 827
+[09:37:45.414] [TaleWorlds.MountAndBlade.MBDebugManager] [ERR]: Assert Failed!: A character is used that is not in any font! : � (65533); CallerFilePath: C:\Develop\mb3\Source\Engine\TaleWorlds.TwoDimension\BitmapFont\RichText.cs; CallerMemberName: FillPartsWithTokens; CallerLineNumber: 827
+[09:37:45.414] [TaleWorlds.MountAndBlade.MBDebugManager] [ERR]: Assert Failed!: A character is used that is not in any font! : � (65533); CallerFilePath: C:\Develop\mb3\Source\Engine\TaleWorlds.TwoDimension\BitmapFont\RichText.cs; CallerMemberName: FillPartsWithTokens; CallerLineNumber: 827
+[09:37:45.521] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: TaleWorlds.MountAndBlade.Launcher.exe Error: 0 : 
+[09:37:45.521] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: AccessTools2.Property: Could not find property for type 'System.String' and name 'IsSelected'
+[09:37:45.522] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: TaleWorlds.MountAndBlade.Launcher.exe Error: 0 : 
+[09:37:45.522] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: AccessTools2.Property: Could not find property for type 'System.String' and name 'IsSelected'
+[09:37:45.522] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: TaleWorlds.MountAndBlade.Launcher.exe Error: 0 : 
+[09:37:45.522] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: AccessTools2.Property: Could not find property for type 'System.String' and name 'IsSelected'
+[09:37:45.522] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: TaleWorlds.MountAndBlade.Launcher.exe Error: 0 : 
+[09:37:45.522] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: AccessTools2.Property: Could not find property for type 'System.String' and name 'IsSelected'
+[09:37:49.819] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: TaleWorlds.MountAndBlade.Launcher.exe Error: 0 : 
+[09:37:49.819] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: AccessTools2.Method: Could not find method for type 'TaleWorlds.MountAndBlade.ViewModelCollection.GameOptions.PerformanceOptionCategoryVM' and name 'ExecuteCancelProcess' and parameters ''
+[09:37:51.852] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: TaleWorlds.MountAndBlade.Launcher.exe Error: 0 : 
+[09:37:51.852] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: AccessTools2.Method: Could not find method for type 'TaleWorlds.MountAndBlade.ViewModelCollection.GameOptions.OptionCategoryVM' and name 'ExecuteCancelProcess' and parameters ''
+[09:37:51.853] [TaleWorlds.MountAndBlade.MBDebugManager] [ERR]: Assert Failed!: A character is used that is not in any font! : � (65533); CallerFilePath: C:\Develop\mb3\Source\Engine\TaleWorlds.TwoDimension\BitmapFont\RichText.cs; CallerMemberName: FillPartsWithTokens; CallerLineNumber: 827
+[09:37:51.869] [TaleWorlds.MountAndBlade.MBDebugManager] [ERR]: Assert Failed!: A character is used that is not in any font! : � (65533); CallerFilePath: C:\Develop\mb3\Source\Engine\TaleWorlds.TwoDimension\BitmapFont\RichText.cs; CallerMemberName: FillPartsWithTokens; CallerLineNumber: 827
+[09:37:59.335] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: TaleWorlds.MountAndBlade.Launcher.exe Error: 0 : 
+[09:37:59.335] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: AccessTools2.Method: Could not find method for type 'TaleWorlds.MountAndBlade.ViewModelCollection.GameOptions.OptionCategoryVM' and name 'ExecuteCancelProcess' and parameters ''
+[09:38:00.488] [TaleWorlds.MountAndBlade.MBDebugManager] [ERR]: Assert Failed!: A character is used that is not in any font! : � (65533); CallerFilePath: C:\Develop\mb3\Source\Engine\TaleWorlds.TwoDimension\BitmapFont\RichText.cs; CallerMemberName: FillPartsWithTokens; CallerLineNumber: 827
+[09:38:00.488] [TaleWorlds.MountAndBlade.MBDebugManager] [ERR]: Assert Failed!: A character is used that is not in any font! : � (65533); CallerFilePath: C:\Develop\mb3\Source\Engine\TaleWorlds.TwoDimension\BitmapFont\RichText.cs; CallerMemberName: FillPartsWithTokens; CallerLineNumber: 827
+[09:38:00.488] [TaleWorlds.MountAndBlade.MBDebugManager] [ERR]: Assert Failed!: A character is used that is not in any font! : � (65533); CallerFilePath: C:\Develop\mb3\Source\Engine\TaleWorlds.TwoDimension\BitmapFont\RichText.cs; CallerMemberName: FillPartsWithTokens; CallerLineNumber: 827
+[09:38:00.494] [TaleWorlds.MountAndBlade.MBDebugManager] [ERR]: Assert Failed!: A character is used that is not in any font! : � (65533); CallerFilePath: C:\Develop\mb3\Source\Engine\TaleWorlds.TwoDimension\BitmapFont\RichText.cs; CallerMemberName: FillPartsWithTokens; CallerLineNumber: 827
+[09:38:00.494] [TaleWorlds.MountAndBlade.MBDebugManager] [ERR]: Assert Failed!: A character is used that is not in any font! : � (65533); CallerFilePath: C:\Develop\mb3\Source\Engine\TaleWorlds.TwoDimension\BitmapFont\RichText.cs; CallerMemberName: FillPartsWithTokens; CallerLineNumber: 827
+[09:38:00.494] [TaleWorlds.MountAndBlade.MBDebugManager] [ERR]: Assert Failed!: A character is used that is not in any font! : � (65533); CallerFilePath: C:\Develop\mb3\Source\Engine\TaleWorlds.TwoDimension\BitmapFont\RichText.cs; CallerMemberName: FillPartsWithTokens; CallerLineNumber: 827
+[09:38:02.057] [TaleWorlds.MountAndBlade.MBDebugManager] [INF]: PopScreen
+[09:38:02.057] [TaleWorlds.MountAndBlade.MBDebugManager] [INF]: TaleWorlds.MountAndBlade.GauntletUI.OptionsGauntletScreen::HandlePause
+[09:38:02.057] [TaleWorlds.MountAndBlade.MBDebugManager] [INF]: TaleWorlds.MountAndBlade.GauntletUI.OptionsGauntletScreen::HandleDeactivate
+[09:38:02.062] [TaleWorlds.MountAndBlade.MBDebugManager] [INF]: TaleWorlds.MountAndBlade.GauntletUI.OptionsGauntletScreen::HandleFinalize
+[09:38:02.064] [TaleWorlds.MountAndBlade.MBDebugManager] [INF]: Force VSync State is now DEACTIVATED
+[09:38:02.070] [TaleWorlds.MountAndBlade.MBDebugManager] [INF]: PopScreen - TaleWorlds.MountAndBlade.GauntletUI.OptionsGauntletScreen
+[09:38:02.070] [TaleWorlds.MountAndBlade.MBDebugManager] [INF]: OnScreenListChanged
+[09:38:02.070] [TaleWorlds.MountAndBlade.MBDebugManager] [INF]: TaleWorlds.MountAndBlade.GauntletUI.InitialGauntletScreen::HandleActivate
+[09:38:02.076] [TaleWorlds.MountAndBlade.MBDebugManager] [INF]: TaleWorlds.MountAndBlade.GauntletUI.InitialGauntletScreen::HandleResume
+[09:38:04.430] [TaleWorlds.MountAndBlade.MBDebugManager] [INF]: DeactivateAndFinalizeAllScreens
+[09:38:04.430] [TaleWorlds.MountAndBlade.MBDebugManager] [INF]: TaleWorlds.MountAndBlade.GauntletUI.InitialGauntletScreen::HandlePause
+[09:38:04.430] [TaleWorlds.MountAndBlade.MBDebugManager] [INF]: TaleWorlds.MountAndBlade.GauntletUI.InitialGauntletScreen::HandleDeactivate
+[09:38:04.431] [TaleWorlds.MountAndBlade.MBDebugManager] [INF]: TaleWorlds.MountAndBlade.GauntletUI.InitialGauntletScreen::HandleFinalize
+[09:38:04.434] [TaleWorlds.MountAndBlade.MBDebugManager] [INF]: OnScreenListChanged
+[09:38:04.518] [TaleWorlds.MountAndBlade.MBDebugManager] [INF]: Checking if any managed object still lives...
+[09:38:04.518] [TaleWorlds.MountAndBlade.MBDebugManager] [INF]: There are no living managed objects.

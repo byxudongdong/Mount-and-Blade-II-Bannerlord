@@ -1,0 +1,73 @@
+[09:37:15.001] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: TaleWorlds.MountAndBlade.Launcher.exe Error: 0 : AccessTools2.Field: Could not find field for type 'MCM.IntegratedLoaderSubModule' and name '_loader'
+[09:37:15.012] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: TaleWorlds.MountAndBlade.Launcher.exe Information: 0 : MCM.UI - Register: MCMv4.UI, Version=4.3.18.0, Culture=neutral, PublicKeyToken=null
+[09:37:15.012] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: TaleWorlds.MountAndBlade.Launcher.exe Information: 0 : MCM.UI - Register Types
+[09:37:15.012] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: TaleWorlds.MountAndBlade.Launcher.exe Information: 0 : MCM.UI - Enabled
+[09:37:15.012] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: TaleWorlds.MountAndBlade.Launcher.exe Error: 0 : AccessTools2.Field: Could not find field for type 'TaleWorlds.GauntletUI.PrefabSystem.WidgetFactory' and name '_customTypes'
+[09:37:15.012] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: TaleWorlds.MountAndBlade.Launcher.exe Information: 0 : MCM.UI - Register: MCMv4.UI, Version=4.3.18.0, Culture=neutral, PublicKeyToken=null
+[09:37:15.012] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: TaleWorlds.MountAndBlade.Launcher.exe Information: 0 : MCM.UI - Register Types
+[09:37:15.012] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: TaleWorlds.MountAndBlade.Launcher.exe Error: 0 : Failed to load extension module MCM.UI - already loaded!
+[09:37:15.012] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: TaleWorlds.MountAndBlade.Launcher.exe Information: 0 : MCM.UI - Enabled
+[09:37:15.224] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: TaleWorlds.MountAndBlade.Launcher.exe Error: 0 : 
+[09:37:15.224] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: AccessTools2.Property: Could not find property for type 'System.Boolean' and name 'SelectedIndex'
+[09:37:15.238] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: TaleWorlds.MountAndBlade.Launcher.exe Error: 0 : 
+[09:37:15.238] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: AccessTools2.Property: Could not find property for type 'Newtonsoft.Json.Linq.JObject' and name 'SelectedIndex'
+[09:37:15.244] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: TaleWorlds.MountAndBlade.Launcher.exe Error: 0 : 
+[09:37:15.245] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: AccessTools2.Property: Could not find property for type 'System.Boolean' and name 'SelectedIndex'
+[09:37:15.249] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: TaleWorlds.MountAndBlade.Launcher.exe Error: 0 : 
+[09:37:15.249] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: AccessTools2.Property: Could not find property for type 'System.Boolean' and name 'SelectedIndex'
+[09:37:15.249] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: TaleWorlds.MountAndBlade.Launcher.exe Error: 0 : 
+[09:37:15.249] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: AccessTools2.Property: Could not find property for type 'Newtonsoft.Json.Linq.JObject' and name 'SelectedIndex'
+[09:37:15.249] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: TaleWorlds.MountAndBlade.Launcher.exe Error: 0 : 
+[09:37:15.249] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: AccessTools2.Property: Could not find property for type 'System.Boolean' and name 'SelectedIndex'
+[09:37:15.252] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: TaleWorlds.MountAndBlade.Launcher.exe Error: 0 : 
+[09:37:15.252] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: AccessTools2.Property: Could not find property for type 'System.Boolean' and name 'SelectedIndex'
+[09:37:15.253] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: TaleWorlds.MountAndBlade.Launcher.exe Error: 0 : 
+[09:37:15.253] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: AccessTools2.Property: Could not find property for type 'System.Single' and name 'SelectedIndex'
+[09:37:15.253] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: TaleWorlds.MountAndBlade.Launcher.exe Error: 0 : 
+[09:37:15.254] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: AccessTools2.Property: Could not find property for type 'System.Boolean' and name 'SelectedIndex'
+[09:37:15.254] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: TaleWorlds.MountAndBlade.Launcher.exe Error: 0 : 
+[09:37:15.254] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: AccessTools2.Property: Could not find property for type 'System.Single' and name 'SelectedIndex'
+[09:37:15.254] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: TaleWorlds.MountAndBlade.Launcher.exe Error: 0 : 
+[09:37:15.254] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: AccessTools2.Property: Could not find property for type 'System.Boolean' and name 'SelectedIndex'
+[09:37:15.254] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: TaleWorlds.MountAndBlade.Launcher.exe Error: 0 : 
+[09:37:15.254] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: AccessTools2.Property: Could not find property for type 'System.Single' and name 'SelectedIndex'
+[09:37:15.254] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: TaleWorlds.MountAndBlade.Launcher.exe Error: 0 : 
+[09:37:15.254] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: AccessTools2.Property: Could not find property for type 'System.Single' and name 'SelectedIndex'
+[09:37:15.254] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: TaleWorlds.MountAndBlade.Launcher.exe Error: 0 : 
+[09:37:15.254] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: AccessTools2.Property: Could not find property for type 'Newtonsoft.Json.Linq.JObject' and name 'SelectedIndex'
+[09:37:15.254] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: TaleWorlds.MountAndBlade.Launcher.exe Error: 0 : 
+[09:37:15.254] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: AccessTools2.Property: Could not find property for type 'System.Boolean' and name 'SelectedIndex'
+[09:37:15.254] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: TaleWorlds.MountAndBlade.Launcher.exe Error: 0 : 
+[09:37:15.254] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: AccessTools2.Property: Could not find property for type 'System.Single' and name 'SelectedIndex'
+[09:37:15.255] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: TaleWorlds.MountAndBlade.Launcher.exe Error: 0 : 
+[09:37:15.255] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: AccessTools2.Property: Could not find property for type 'System.Boolean' and name 'SelectedIndex'
+[09:37:15.255] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: TaleWorlds.MountAndBlade.Launcher.exe Error: 0 : 
+[09:37:15.255] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: AccessTools2.Property: Could not find property for type 'System.Single' and name 'SelectedIndex'
+[09:37:15.255] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: TaleWorlds.MountAndBlade.Launcher.exe Error: 0 : 
+[09:37:15.255] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: AccessTools2.Property: Could not find property for type 'System.Boolean' and name 'SelectedIndex'
+[09:37:15.255] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: TaleWorlds.MountAndBlade.Launcher.exe Error: 0 : 
+[09:37:15.255] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: AccessTools2.Property: Could not find property for type 'System.Single' and name 'SelectedIndex'
+[09:37:15.256] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: TaleWorlds.MountAndBlade.Launcher.exe Error: 0 : 
+[09:37:15.256] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: AccessTools2.Property: Could not find property for type 'System.Single' and name 'SelectedIndex'
+[09:37:15.257] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: TaleWorlds.MountAndBlade.Launcher.exe Error: 0 : 
+[09:37:15.257] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: AccessTools2.Property: Could not find property for type 'System.Int32' and name 'SelectedIndex'
+[09:37:15.257] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: TaleWorlds.MountAndBlade.Launcher.exe Error: 0 : 
+[09:37:15.257] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: AccessTools2.Property: Could not find property for type 'Newtonsoft.Json.Linq.JObject' and name 'SelectedIndex'
+[09:37:15.257] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: TaleWorlds.MountAndBlade.Launcher.exe Error: 0 : 
+[09:37:15.257] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: AccessTools2.Property: Could not find property for type 'System.Int32' and name 'SelectedIndex'
+[09:37:45.074] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: TaleWorlds.MountAndBlade.Launcher.exe Error: 0 : 
+[09:37:45.074] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: AccessTools2.Property: Could not find property for type 'TaleWorlds.MountAndBlade.ViewModelCollection.GameOptions.OptionsVM' and name 'GraphicsOptions'
+[09:37:45.521] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: TaleWorlds.MountAndBlade.Launcher.exe Error: 0 : 
+[09:37:45.521] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: AccessTools2.Property: Could not find property for type 'System.String' and name 'IsSelected'
+[09:37:45.522] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: TaleWorlds.MountAndBlade.Launcher.exe Error: 0 : 
+[09:37:45.522] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: AccessTools2.Property: Could not find property for type 'System.String' and name 'IsSelected'
+[09:37:45.522] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: TaleWorlds.MountAndBlade.Launcher.exe Error: 0 : 
+[09:37:45.522] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: AccessTools2.Property: Could not find property for type 'System.String' and name 'IsSelected'
+[09:37:45.522] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: TaleWorlds.MountAndBlade.Launcher.exe Error: 0 : 
+[09:37:45.522] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: AccessTools2.Property: Could not find property for type 'System.String' and name 'IsSelected'
+[09:37:49.819] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: TaleWorlds.MountAndBlade.Launcher.exe Error: 0 : 
+[09:37:49.819] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: AccessTools2.Method: Could not find method for type 'TaleWorlds.MountAndBlade.ViewModelCollection.GameOptions.PerformanceOptionCategoryVM' and name 'ExecuteCancelProcess' and parameters ''
+[09:37:51.852] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: TaleWorlds.MountAndBlade.Launcher.exe Error: 0 : 
+[09:37:51.852] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: AccessTools2.Method: Could not find method for type 'TaleWorlds.MountAndBlade.ViewModelCollection.GameOptions.OptionCategoryVM' and name 'ExecuteCancelProcess' and parameters ''
+[09:37:59.335] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: TaleWorlds.MountAndBlade.Launcher.exe Error: 0 : 
+[09:37:59.335] [System.Diagnostics.Logger.LoggerTraceListener] [INF]: AccessTools2.Method: Could not find method for type 'TaleWorlds.MountAndBlade.ViewModelCollection.GameOptions.OptionCategoryVM' and name 'ExecuteCancelProcess' and parameters ''
