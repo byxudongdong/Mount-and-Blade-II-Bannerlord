@@ -2,20 +2,17 @@
 <ArmsConfig xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <IncreaseAttackNum>5</IncreaseAttackNum>
   <DeclineAttackNum>5</DeclineAttackNum>
-  <AddXpExpRate>1</AddXpExpRate>
-  <CooldownAddXP>120</CooldownAddXP>
+  <AddXpExpRate>10</AddXpExpRate>
   <BuyTroopsRate>0</BuyTroopsRate>
-  <BloodResume>0.1</BloodResume>
+  <BloodResume>0.0135803223</BloodResume>
   <HasChildrenLimit>true</HasChildrenLimit>
-  <RebuildCooldown>140</RebuildCooldown>
-  <DonateCooldown>140</DonateCooldown>
-  <BlackFlagCooldown>720</BlackFlagCooldown>
+  <RebuildCooldown>1</RebuildCooldown>
+  <DonateCooldown>1</DonateCooldown>
   <AddMoneyToLord>5</AddMoneyToLord>
   <SkipMainTask>false</SkipMainTask>
   <FakeTournamaent>true</FakeTournamaent>
   <AutoUpgrade>false</AutoUpgrade>
-  <AddXpToLord>0</AddXpToLord>
-  <BlackFlagTroopNum>1</BlackFlagTroopNum>
+  <AddXpToLord>925</AddXpToLord>
   <ChengyingThrustDamage>120</ChengyingThrustDamage>
   <ChengyingThrustSpeed>120</ChengyingThrustSpeed>
   <ChengyingSwingDamage>120</ChengyingSwingDamage>
@@ -38,39 +35,39 @@
   <ZhugeThrustDamage>150</ZhugeThrustDamage>
   <ZhugeMissileSpeed>150</ZhugeMissileSpeed>
   <BoomWeight>1</BoomWeight>
-  <BoomStackAmount>4</BoomStackAmount>
+  <BoomStackAmount>100</BoomStackAmount>
   <BoomDamage>500</BoomDamage>
   <BoomMissileSpeed>500</BoomMissileSpeed>
   <AllowGreatBomb>false</AllowGreatBomb>
   <LuoriWeight>1</LuoriWeight>
-  <LuorijianStackAmount>100</LuorijianStackAmount>
+  <LuorijianStackAmount>120</LuorijianStackAmount>
   <LuoriThrustSpeed>200</LuoriThrustSpeed>
   <LuoriThrustDamage>120</LuoriThrustDamage>
   <LuoriMissileSpeed>150</LuoriMissileSpeed>
-  <ZiMuAmount>3</ZiMuAmount>
+  <ZiMuAmount>75</ZiMuAmount>
   <RuanjiaHeadArmor>40</RuanjiaHeadArmor>
   <RuanjiaBodyArmor>90</RuanjiaBodyArmor>
   <RuanjiaLegArmor>90</RuanjiaLegArmor>
   <RuanjiaArmArmor>90</RuanjiaArmArmor>
-  <JinsiruanjiaHeadArmor>40</JinsiruanjiaHeadArmor>
+  <JinsiruanjiaHeadArmor>42</JinsiruanjiaHeadArmor>
   <JinsiruanjiaBodyArmor>90</JinsiruanjiaBodyArmor>
   <JinsiruanjiaLegArmor>90</JinsiruanjiaLegArmor>
   <JinsiruanjiaArmArmor>90</JinsiruanjiaArmArmor>
   <XuelifeiWeight>400</XuelifeiWeight>
   <XuelifeiHitPoints>200</XuelifeiHitPoints>
   <XuelifeiManeuver>100</XuelifeiManeuver>
-  <XuelifeiChargeDamage>40</XuelifeiChargeDamage>
+  <XuelifeiChargeDamage>76</XuelifeiChargeDamage>
   <XuelifeiSpeed>90</XuelifeiSpeed>
   <DaoliWeight>460</DaoliWeight>
   <DaoliHitPoints>200</DaoliHitPoints>
   <DaoliManeuver>100</DaoliManeuver>
-  <DaoliChargeDamage>40</DaoliChargeDamage>
+  <DaoliChargeDamage>68</DaoliChargeDamage>
   <DaoliSpeed>90</DaoliSpeed>
   <HorceArmorBodyArmor>150</HorceArmorBodyArmor>
   <HorceArmorBodyArmor1>150</HorceArmorBodyArmor1>
-  <TroopGender>false</TroopGender>
-  <TroopGender2>false</TroopGender2>
-  <TroopGender3>false</TroopGender3>
-  <UpgradeDifficulty>5</UpgradeDifficulty>
-  <TrainCooldown>100</TrainCooldown>
+  <TroopGender>true</TroopGender>
+  <TroopGender2>true</TroopGender2>
+  <TroopGender3>true</TroopGender3>
+  <UpgradeDifficulty>1</UpgradeDifficulty>
+  <TrainCooldown>1</TrainCooldown>
 </ArmsConfig>

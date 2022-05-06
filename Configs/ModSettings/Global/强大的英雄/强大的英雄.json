@@ -1,9 +1,9 @@
 {
-  "Debug": false,
-  "HitPointsMultiplier": 1.3,
   "HitPointMultiplierEnabled": true,
-  "HorseHitPointsMultiplier": 1.0,
+  "HitPointsMultiplier": 3.00061655,
+  "HorseHitPointsMultiplier": 3.05246854,
+  "Debug": false,
   "DamageMultiplierEnabled": true,
-  "DamageMultiplier": 0.7,
-  "HorseDamageMultiplier": 0.7
+  "DamageMultiplier": 0.1,
+  "HorseDamageMultiplier": 0.1
 }
